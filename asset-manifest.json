@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ProfessionalPortfolio/static/css/main.c1ef31c5.css",
-    "main.js": "/ProfessionalPortfolio/static/js/main.8979704d.js",
+    "main.css": "/ProfessionalPortfolio/static/css/main.64c57052.css",
+    "main.js": "/ProfessionalPortfolio/static/js/main.6f32f115.js",
     "static/media/ShantellSans.ttf": "/ProfessionalPortfolio/static/media/ShantellSans.c57975b99cd2d23aa6f7.ttf",
     "static/media/dungeonfire.png": "/ProfessionalPortfolio/static/media/dungeonfire.c7bb31ae70febaa9937a.png",
     "static/media/sv.png": "/ProfessionalPortfolio/static/media/sv.420df80437ce23adf01e.png",
@@ -18,11 +18,11 @@
     "static/media/discordBot.png": "/ProfessionalPortfolio/static/media/discordBot.9c6ef72516a4446c8ff1.png",
     "static/media/twitter.png": "/ProfessionalPortfolio/static/media/twitter.4e4adfa6439ea5bbee6f.png",
     "index.html": "/ProfessionalPortfolio/index.html",
-    "main.c1ef31c5.css.map": "/ProfessionalPortfolio/static/css/main.c1ef31c5.css.map",
-    "main.8979704d.js.map": "/ProfessionalPortfolio/static/js/main.8979704d.js.map"
+    "main.64c57052.css.map": "/ProfessionalPortfolio/static/css/main.64c57052.css.map",
+    "main.6f32f115.js.map": "/ProfessionalPortfolio/static/js/main.6f32f115.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1ef31c5.css",
-    "static/js/main.8979704d.js"
+    "static/css/main.64c57052.css",
+    "static/js/main.6f32f115.js"
   ]
 }
