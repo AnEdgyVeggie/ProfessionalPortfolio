@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ProfessionalPortfolio/static/css/main.64c57052.css",
-    "main.js": "/ProfessionalPortfolio/static/js/main.25de50e1.js",
+    "main.js": "/ProfessionalPortfolio/static/js/main.08e15a73.js",
     "static/media/ShantellSans.ttf": "/ProfessionalPortfolio/static/media/ShantellSans.c57975b99cd2d23aa6f7.ttf",
     "static/media/dungeonfire.png": "/ProfessionalPortfolio/static/media/dungeonfire.c7bb31ae70febaa9937a.png",
     "static/media/sv.png": "/ProfessionalPortfolio/static/media/sv.420df80437ce23adf01e.png",
     "static/media/jumpClimb.png": "/ProfessionalPortfolio/static/media/jumpClimb.cfe67693d81ecc684d86.png",
     "static/media/smartbrain.png": "/ProfessionalPortfolio/static/media/smartbrain.3eca2cd4233f2109a87d.png",
     "static/media/FiraSans.ttf": "/ProfessionalPortfolio/static/media/FiraSans.f4eb295ecc2fb842d61c.ttf",
-    "static/media/Profile.jpg": "/ProfessionalPortfolio/static/media/Profile.8ee2c7f44a0a3eb4dcbb.jpg",
+    "static/media/Profile.jpg": "/ProfessionalPortfolio/static/media/Profile.5e017810ea8b30525998.jpg",
     "static/media/learningPaths.png": "/ProfessionalPortfolio/static/media/learningPaths.9ae021b7780e20342750.png",
     "static/media/react.png": "/ProfessionalPortfolio/static/media/react.5f4638ff215ca5faf43c.png",
     "static/media/github.png": "/ProfessionalPortfolio/static/media/github.93e6871ec0bf87dbdbe9.png",
@@ -19,10 +19,10 @@
     "static/media/twitter.png": "/ProfessionalPortfolio/static/media/twitter.4e4adfa6439ea5bbee6f.png",
     "index.html": "/ProfessionalPortfolio/index.html",
     "main.64c57052.css.map": "/ProfessionalPortfolio/static/css/main.64c57052.css.map",
-    "main.25de50e1.js.map": "/ProfessionalPortfolio/static/js/main.25de50e1.js.map"
+    "main.08e15a73.js.map": "/ProfessionalPortfolio/static/js/main.08e15a73.js.map"
   },
   "entrypoints": [
     "static/css/main.64c57052.css",
-    "static/js/main.25de50e1.js"
+    "static/js/main.08e15a73.js"
   ]
 }
