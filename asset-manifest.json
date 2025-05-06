@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProfessionalPortfolio/static/css/main.de846fd8.css",
-    "main.js": "/ProfessionalPortfolio/static/js/main.2141a948.js",
+    "main.js": "/ProfessionalPortfolio/static/js/main.eb285574.js",
     "static/media/ShantellSans.ttf": "/ProfessionalPortfolio/static/media/ShantellSans.c57975b99cd2d23aa6f7.ttf",
     "static/media/dungeonfire.png": "/ProfessionalPortfolio/static/media/dungeonfire.c7bb31ae70febaa9937a.png",
     "static/media/sv.png": "/ProfessionalPortfolio/static/media/sv.420df80437ce23adf01e.png",
@@ -16,10 +16,10 @@
     "static/media/react.png": "/ProfessionalPortfolio/static/media/react.5f4638ff215ca5faf43c.png",
     "static/media/scavenger.png": "/ProfessionalPortfolio/static/media/scavenger.c642f964cf777986f66a.png",
     "static/media/resume.png": "/ProfessionalPortfolio/static/media/resume.363ea9280c246109c28b.png",
-    "static/media/SylvesterEResume.pdf": "/ProfessionalPortfolio/static/media/SylvesterEResume.96e439e6d2fbf18444cf.pdf",
     "static/media/github.png": "/ProfessionalPortfolio/static/media/github.93e6871ec0bf87dbdbe9.png",
+    "static/media/SylvesterEResume.pdf": "/ProfessionalPortfolio/static/media/SylvesterEResume.7b629fc90d173878f368.pdf",
     "static/media/Linkedin.png": "/ProfessionalPortfolio/static/media/Linkedin.2f0b5dc4ec88f9336d9f.png",
-    "static/media/CoverLetter.pdf": "/ProfessionalPortfolio/static/media/CoverLetter.a1b2e6f733b3805095fd.pdf",
+    "static/media/CoverLetter.pdf": "/ProfessionalPortfolio/static/media/CoverLetter.c9b58fa7dcd4e38d072c.pdf",
     "static/media/transcript.png": "/ProfessionalPortfolio/static/media/transcript.99b0268e82e7ff7e13f6.png",
     "static/media/unity.png": "/ProfessionalPortfolio/static/media/unity.e07adafafb915b5977f4.png",
     "static/media/coverletter.png": "/ProfessionalPortfolio/static/media/coverletter.3c06802fb4995cbc85ac.png",
@@ -29,10 +29,10 @@
     "static/media/twitter.png": "/ProfessionalPortfolio/static/media/twitter.4e4adfa6439ea5bbee6f.png",
     "index.html": "/ProfessionalPortfolio/index.html",
     "main.de846fd8.css.map": "/ProfessionalPortfolio/static/css/main.de846fd8.css.map",
-    "main.2141a948.js.map": "/ProfessionalPortfolio/static/js/main.2141a948.js.map"
+    "main.eb285574.js.map": "/ProfessionalPortfolio/static/js/main.eb285574.js.map"
   },
   "entrypoints": [
     "static/css/main.de846fd8.css",
-    "static/js/main.2141a948.js"
+    "static/js/main.eb285574.js"
   ]
 }
