@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProfessionalPortfolio/static/css/main.de846fd8.css",
-    "main.js": "/ProfessionalPortfolio/static/js/main.eb285574.js",
+    "main.js": "/ProfessionalPortfolio/static/js/main.5f436865.js",
     "static/media/ShantellSans.ttf": "/ProfessionalPortfolio/static/media/ShantellSans.c57975b99cd2d23aa6f7.ttf",
     "static/media/dungeonfire.png": "/ProfessionalPortfolio/static/media/dungeonfire.c7bb31ae70febaa9937a.png",
     "static/media/sv.png": "/ProfessionalPortfolio/static/media/sv.420df80437ce23adf01e.png",
@@ -9,30 +9,30 @@
     "static/media/smartbrain.png": "/ProfessionalPortfolio/static/media/smartbrain.3eca2cd4233f2109a87d.png",
     "static/media/web.png": "/ProfessionalPortfolio/static/media/web.38432c4ef837365046cd.png",
     "static/media/FiraSans.ttf": "/ProfessionalPortfolio/static/media/FiraSans.f4eb295ecc2fb842d61c.ttf",
-    "static/media/Transcript.pdf": "/ProfessionalPortfolio/static/media/Transcript.63b5b934803e1924d0ca.pdf",
+    "static/media/resume.png": "/ProfessionalPortfolio/static/media/resume.478a99e1f6d0cf8cc932.png",
+    "static/media/Transcript.pdf": "/ProfessionalPortfolio/static/media/Transcript.8a83de8b25eaf9fdab73.pdf",
     "static/media/Profile.jpg": "/ProfessionalPortfolio/static/media/Profile.8ee2c7f44a0a3eb4dcbb.jpg",
     "static/media/mobile.png": "/ProfessionalPortfolio/static/media/mobile.0bcb09a64415a57d3de8.png",
     "static/media/learningPaths.png": "/ProfessionalPortfolio/static/media/learningPaths.9ae021b7780e20342750.png",
     "static/media/react.png": "/ProfessionalPortfolio/static/media/react.5f4638ff215ca5faf43c.png",
     "static/media/scavenger.png": "/ProfessionalPortfolio/static/media/scavenger.c642f964cf777986f66a.png",
-    "static/media/resume.png": "/ProfessionalPortfolio/static/media/resume.363ea9280c246109c28b.png",
+    "static/media/coverletter.png": "/ProfessionalPortfolio/static/media/coverletter.ee4013838c16d0c647d7.png",
     "static/media/github.png": "/ProfessionalPortfolio/static/media/github.93e6871ec0bf87dbdbe9.png",
     "static/media/SylvesterEResume.pdf": "/ProfessionalPortfolio/static/media/SylvesterEResume.7b629fc90d173878f368.pdf",
     "static/media/Linkedin.png": "/ProfessionalPortfolio/static/media/Linkedin.2f0b5dc4ec88f9336d9f.png",
+    "static/media/references.png": "/ProfessionalPortfolio/static/media/references.37e27e99aa7d334563b5.png",
     "static/media/CoverLetter.pdf": "/ProfessionalPortfolio/static/media/CoverLetter.c9b58fa7dcd4e38d072c.pdf",
     "static/media/transcript.png": "/ProfessionalPortfolio/static/media/transcript.99b0268e82e7ff7e13f6.png",
     "static/media/unity.png": "/ProfessionalPortfolio/static/media/unity.e07adafafb915b5977f4.png",
-    "static/media/coverletter.png": "/ProfessionalPortfolio/static/media/coverletter.3c06802fb4995cbc85ac.png",
-    "static/media/Additional Documentation.pdf": "/ProfessionalPortfolio/static/media/Additional Documentation.b696e4374fcc58f43e24.pdf",
+    "static/media/Additional Documentation.pdf": "/ProfessionalPortfolio/static/media/Additional Documentation.03a8bb977e016f90a594.pdf",
     "static/media/discordBot.png": "/ProfessionalPortfolio/static/media/discordBot.9c6ef72516a4446c8ff1.png",
-    "static/media/references.png": "/ProfessionalPortfolio/static/media/references.98943a40390e4f82394e.png",
     "static/media/twitter.png": "/ProfessionalPortfolio/static/media/twitter.4e4adfa6439ea5bbee6f.png",
     "index.html": "/ProfessionalPortfolio/index.html",
     "main.de846fd8.css.map": "/ProfessionalPortfolio/static/css/main.de846fd8.css.map",
-    "main.eb285574.js.map": "/ProfessionalPortfolio/static/js/main.eb285574.js.map"
+    "main.5f436865.js.map": "/ProfessionalPortfolio/static/js/main.5f436865.js.map"
   },
   "entrypoints": [
     "static/css/main.de846fd8.css",
-    "static/js/main.eb285574.js"
+    "static/js/main.5f436865.js"
   ]
 }
