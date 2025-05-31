@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProfessionalPortfolio/static/css/main.904ef4f7.css",
-    "main.js": "/ProfessionalPortfolio/static/js/main.e4398b34.js",
+    "main.js": "/ProfessionalPortfolio/static/js/main.84908e7f.js",
     "static/media/ShantellSans.ttf": "/ProfessionalPortfolio/static/media/ShantellSans.c57975b99cd2d23aa6f7.ttf",
     "static/media/dungeonfire.png": "/ProfessionalPortfolio/static/media/dungeonfire.c7bb31ae70febaa9937a.png",
     "static/media/Profile.jpg": "/ProfessionalPortfolio/static/media/Profile.2b5699edf0075c19960c.jpg",
@@ -18,7 +18,7 @@
     "static/media/scavenger.png": "/ProfessionalPortfolio/static/media/scavenger.c642f964cf777986f66a.png",
     "static/media/coverletter.png": "/ProfessionalPortfolio/static/media/coverletter.ee4013838c16d0c647d7.png",
     "static/media/github.png": "/ProfessionalPortfolio/static/media/github.93e6871ec0bf87dbdbe9.png",
-    "static/media/SylvesterEResume.pdf": "/ProfessionalPortfolio/static/media/SylvesterEResume.d4d8eb100498f1e2a21b.pdf",
+    "static/media/SylvesterEResume.pdf": "/ProfessionalPortfolio/static/media/SylvesterEResume.f0e000f395523948d233.pdf",
     "static/media/Linkedin.png": "/ProfessionalPortfolio/static/media/Linkedin.2f0b5dc4ec88f9336d9f.png",
     "static/media/references.png": "/ProfessionalPortfolio/static/media/references.37e27e99aa7d334563b5.png",
     "static/media/CoverLetter.pdf": "/ProfessionalPortfolio/static/media/CoverLetter.c9b58fa7dcd4e38d072c.pdf",
@@ -29,10 +29,10 @@
     "static/media/twitter.png": "/ProfessionalPortfolio/static/media/twitter.4e4adfa6439ea5bbee6f.png",
     "index.html": "/ProfessionalPortfolio/index.html",
     "main.904ef4f7.css.map": "/ProfessionalPortfolio/static/css/main.904ef4f7.css.map",
-    "main.e4398b34.js.map": "/ProfessionalPortfolio/static/js/main.e4398b34.js.map"
+    "main.84908e7f.js.map": "/ProfessionalPortfolio/static/js/main.84908e7f.js.map"
   },
   "entrypoints": [
     "static/css/main.904ef4f7.css",
-    "static/js/main.e4398b34.js"
+    "static/js/main.84908e7f.js"
   ]
 }
